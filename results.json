@@ -1,0 +1,41 @@
+{
+    "azure": {
+        "eastus": {
+            "success": 400,
+            "failure": 390
+        },
+        "westus": {
+            "success": 410,
+            "failure": 334
+        },
+        "eastus2": {
+            "success": 402,
+            "failure": 335
+        }
+    },
+    "aws": {
+        "us-west-2": {
+            "failure": 176,
+            "success": 406
+        },
+        "us-east-2": {
+            "success": 354,
+            "failure": 199
+        },
+        "us-east-1": {
+            "failure": 215,
+            "success": 377
+        },
+        "us-west-1": {
+            "success": 395,
+            "failure": 178
+        }
+    },
+    "gcp": {
+        "us-central1": {
+            "success": 486,
+            "failure": 136,
+            "aborted": 2
+        }
+    }
+}

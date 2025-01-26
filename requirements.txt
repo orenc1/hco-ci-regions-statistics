@@ -1,0 +1,6 @@
+requests>=2.26.0
+lxml>=4.7.1
+pyyaml>=5.4.1
+GitPython>=3.1.43
+numpy~=2.2.2
+matplotlib~=3.10.0
